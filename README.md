@@ -1,5 +1,5 @@
 # e-Commerce-Website-
-Online Shoping Website using JAVA
+Fashion Mart (e-Commerce_Website) Using JAVA
 
 Developer : Ananta Gupta
 
